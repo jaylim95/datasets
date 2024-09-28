@@ -1,4 +1,4 @@
-Income,Age,Years_of_Experience,Married/Single,Years_in_Current_Job,Years_in_Current_House,Owns_a_Car,Owns_a_House,Renting_a_House,Defaulted
+Income,Age,Years_of_Experience,Is_Married,Years_in_Current_Job,Years_in_Current_House,Owns_a_Car,Owns_a_House,Renting_a_House,Defaulted
 5830632,35,15,1,13,11,0,0,1,0
 6509681,30,10,1,10,10,1,0,1,0
 2065698,24,10,1,5,11,1,0,1,1
